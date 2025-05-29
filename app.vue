@@ -43,31 +43,6 @@
         </div>
       </div>
 
-      <h4 class="text-lg font-bold mt-5">Frontend:</h4>
-
-      <div class="flex flex-wrap flex-row items-center justify-start gap-2 w-[100%]">
-        <div class="flex flex-col items-center justify-start gap-2 border border-zinc-700 p-5 rounded-md flex-grow">
-          <Icon name="devicon:javascript" size="2.5em"/>
-          <h4 class="text-lg font-bold">JavaScript</h4>
-        </div>
-
-        <div class="flex flex-col items-center justify-start gap-2 border border-zinc-700 p-5 rounded-md flex-grow">
-          <Icon name="devicon:typescript" size="2.5em"/>
-          <h4 class="text-lg font-bold">TypeScript</h4>
-        </div>
-
-        <div class="flex flex-col items-center justify-start gap-2 border border-zinc-700 p-5 rounded-md flex-grow">
-          <Icon name="devicon:react" size="2.5em"/>
-          <h4 class="text-lg font-bold">React</h4>
-        </div>
-
-        <div class="flex flex-col items-center justify-start gap-2 border border-zinc-700 p-5 rounded-md flex-grow">
-          <Icon name="devicon:svelte" size="2.5em"/>
-          <h4 class="text-lg font-bold">Svelte</h4>
-        </div>
-
-      </div>
-
     </div>
   </div>
 </template>
