@@ -4,7 +4,7 @@
     <div class="flex flex-col items-center justify-center gap-2">
       <img src="/pfp.jpg" height="150" width="150" class="rounded-full" />
       <h2 class="text-2xl font-bold">IndexZero</h2>
-      <h4>Java & JS Developer</h4>
+      <h4>Java backend developer</h4>
       <div class="flex flex-row text-3xl gap-2">
         <a href="https://github.com/indx0">
           <Icon name="mdi:github" style="color: white" />
